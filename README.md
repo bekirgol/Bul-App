@@ -3,3 +3,4 @@
 
 # Uygulama Resimleri
 <img src="https://github.com/bekirgol/Bul-App/blob/master/assets/readme/1.png" width="425"/> <img src="https://github.com/bekirgol/Bul-App/blob/master/assets/readme/2.png" width="425"/> 
+<img src="https://github.com/bekirgol/Bul-App/blob/master/assets/readme/3.png" width="425"/> <img src="https://github.com/bekirgol/Bul-App/blob/master/assets/readme/4.png" width="425"/> 
