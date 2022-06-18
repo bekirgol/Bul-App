@@ -6,7 +6,6 @@
 It is an application developed to find a lost item by filtering through these items, where people can share the items they have lost or found.
 
 
-
 ## Uygulama Resimleri
 <img src="https://github.com/bekirgol/Bul-App/blob/master/assets/readme/1.png" width="250"/> <img src="https://github.com/bekirgol/Bul-App/blob/master/assets/readme/2.png" width="250"/> <img src="https://github.com/bekirgol/Bul-App/blob/master/assets/readme/3.png" width="250"/> 
 
