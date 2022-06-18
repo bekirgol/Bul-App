@@ -1,0 +1,52 @@
+name: bul_app
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.2
+  http: ^0.13.4
+  shared_preferences: ^2.0.12
+  image_picker: ^0.8.4+11
+  geolocator: ^8.2.0
+  async: ^2.8.0
+  path: ^1.8.0
+  mime: ^1.0.1
+  flutter_map: ^0.14.0
+  latlong2: ^0.8.1
+  geocoding: ^2.0.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  test: ^1.14.4
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/no_picture.png
+    - assets/images/640.png
+    - assets/images/1280.png
+    - assets/json/il-ilce.json
+    - assets/json/category.json
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic

@@ -1,0 +1,34 @@
+[
+    {
+        "id": "0",
+        "name": "Kategori Seçiniz"
+    },
+    {
+        "id": "1",
+        "name": "Cüzdan, Çanta"
+    },
+    {
+        "id": "2",
+        "name": "Takı, Mücevher" 
+    },
+    {
+        "id": "3",
+        "name": "Para"
+    },
+    {
+        "id": "4",
+        "name": "Hayvan (Kedi, Köpek vb.)"
+    },
+    {
+        "id": "5",
+        "name": "Kart"
+    },
+    {
+        "id": "6",
+        "name": "Özel Eşya"
+    },
+    {
+        "id": "7",
+        "name": "Diğer"
+    }
+]
